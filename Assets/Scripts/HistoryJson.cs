@@ -15,7 +15,7 @@ public class EventList
     public EventData[] events;
 }
 
-public class JsonTest : MonoBehaviour
+public class HistoryJson : MonoBehaviour
 {
     void Start()
     {
