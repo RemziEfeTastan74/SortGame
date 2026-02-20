@@ -1,0 +1,64 @@
+{
+  "histories": [
+    {
+      "id": 1,
+      "title": "İstanbul'un Fethi",
+      "description": "Fatih Sultan Mehmet komutasındaki Osmanlı ordusu, 29 Mayıs 1453'te İstanbul'u fethetti ve Orta Çağ sona erdi.",
+      "year": 1453
+    },
+    {
+      "id": 2,
+      "title": "Magna Carta'nın İmzalanması",
+      "description": "İngiltere Kralı John, 1215 yılında yetkilerini sınırlayan Magna Carta'yı imzalamak zorunda kaldı.",
+      "year": 1215
+    },
+    {
+      "id": 3,
+      "title": "Fransız Devrimi",
+      "description": "1789'da başlayan Fransız Devrimi, monarşiyi yıkarak modern demokrasi fikirlerinin yayılmasına öncülük etti.",
+      "year": 1789
+    },
+    {
+      "id": 4,
+      "title": "Amerika'nın Bağımsızlık İlanı",
+      "description": "Amerikan kolonileri, 4 Temmuz 1776'da İngiltere'den bağımsızlıklarını ilan etti.",
+      "year": 1776
+    },
+    {
+      "id": 5,
+      "title": "Sanayi Devrimi'nin Başlangıcı",
+      "description": "18. yüzyılın sonlarında İngiltere'de başlayan Sanayi Devrimi, üretim ve ulaşımı kökten değiştirdi.",
+      "year": 1760
+    },
+    {
+      "id": 6,
+      "title": "Cumhuriyetin İlanı",
+      "description": "Türkiye Cumhuriyeti, 29 Ekim 1923'te ilan edildi ve Mustafa Kemal Atatürk ilk Cumhurbaşkanı oldu.",
+      "year": 1923
+    },
+    {
+      "id": 7,
+      "title": "Berlin Duvarı'nın Yıkılması",
+      "description": "9 Kasım 1989'da Berlin Duvarı'nın yıkılması Soğuk Savaş'ın sembolik sonu oldu.",
+      "year": 1989
+    },
+    {
+      "id": 8,
+      "title": "Ay'a İlk İnsanlı İniş",
+      "description": "Neil Armstrong, 20 Temmuz 1969'da Apollo 11 görevi kapsamında Ay'a ayak bastı.",
+      "year": 1969
+    },
+    {
+      "id": 9,
+      "title": "Rönesans Dönemi",
+      "description": "14. yüzyılda İtalya'da başlayan Rönesans, sanat ve bilimin yeniden doğuşunu simgeler.",
+      "year": 1400
+    },
+    {
+      "id": 10,
+      "title": "Birinci Dünya Savaşı'nın Başlaması",
+      "description": "Avusturya-Macaristan Veliahtı Franz Ferdinand'ın öldürülmesi sonrası 1914'te savaş başladı.",
+      "year": 1914
+    }
+  ]
+}
