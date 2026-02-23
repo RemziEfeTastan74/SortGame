@@ -1,7 +1,22 @@
 fileFormatVersion: 2
-guid: f40ad160b4529d3429107f298715d2a6
+guid: 2e9f645eeb1e87e4c848fb4af59fcfd4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2828827869553190326
+    second: WarsButton_0
+  - first:
+      213: 2371305566322183384
+    second: WarsButton_2
+  - first:
+      213: -2881489186580465526
+    second: WarsButton_3
+  - first:
+      213: -3441910707030128655
+    second: WarsButton_1
+  - first:
+      213: -5164501268022560615
+    second: WarsButton_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
@@ -97,7 +112,112 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WarsButton_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 1213
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b56177a5f3024720800000000000000
+      internalID: 2828827869553190326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarsButton_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 732
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4a8e49d198e020800000000000000
+      internalID: 2371305566322183384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarsButton_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fdb10ad4e208d0800000000000000
+      internalID: -2881489186580465526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarsButton_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 734
+        width: 21
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70bdea270eb30d0800000000000000
+      internalID: -3441910707030128655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarsButton_4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 352
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f57d95710458b0800000000000000
+      internalID: -5164501268022560615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
